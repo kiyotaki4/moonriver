@@ -246,7 +246,7 @@ color:#fff;
   height: 587px;
   margin: 20px 0;
   flex:1;
-  background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(man.svg);
+  background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/man.svg);
   background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;
@@ -259,7 +259,7 @@ position: relative;
 }
 
 #woman-container{
-  background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(woman.svg);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/woman.svg);
 }
 .section-page .left-container p{
   font-weight: 300;
@@ -279,7 +279,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   height: 587px;
   margin: 20px 0;
   flex:1;
-  background-image: url(woman.svg);
+  background-image: url(/woman.svg);
   background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
@@ -314,7 +314,7 @@ color:#fff;
 }
 .map-page .map-container{
   flex:1;
-  background-image: url(map.svg);
+  background-image: url(/map.svg);
 position: relative;
 }
 #map1{
@@ -393,7 +393,7 @@ margin:47px auto;
 .card-container .etoile{
   width: 600px;
   height: 820px;
-  background-image: url(etoile.svg);
+  background-image: url(/etoile.svg);
   display:flex;
   flex-direction: column;
   justify-content: end;
